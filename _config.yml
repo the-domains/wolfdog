@@ -1,0 +1,28 @@
+name: wolfdog
+favicon: null
+layout_spectrum: 0.337364521343261
+typography_spectrum: 0.7924088903237134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14007652830332518
+  lightness: 0.7825887606013566
+  saturation: 0.9111286967527121
+  rhythmicContrast: 0.6647915898356587
+purpose: []
